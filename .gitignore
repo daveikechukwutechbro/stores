@@ -1,18 +1,8 @@
-# Laravel
-/admin-panel/vendor/
-/admin-panel/node_modules/
-/admin-panel/.env
-/admin-panel/.env.production
-/admin-panel/.env.local
-/admin-panel/storage/app/*
-/admin-panel/storage/framework/cache/data/*
-/admin-panel/storage/framework/sessions/*
-/admin-panel/storage/framework/views/*
-/admin-panel/storage/logs/*
-/admin-panel/bootstrap/cache/*
-/admin-panel/public/storage/
-/admin-panel/public/hot
-/admin-panel/public/build/
+# Backend (private - deployed separately)
+/admin-panel/
+
+# Composer setup
+/composer-setup.php
 
 # Next.js
 /telegram-mini-app-stars-payments-master/node_modules/
